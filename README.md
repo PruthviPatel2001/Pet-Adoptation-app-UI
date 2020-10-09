@@ -1,2 +1,2 @@
 # Pet-Adoptation-app-UI
-Its just UI which is built on Flutter
+An UI design of Pet-Adoptation-app which is built on Flutter .
